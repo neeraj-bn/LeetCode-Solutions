@@ -51,7 +51,7 @@ class Solution {
                   maxProf = prof;  // Update max profit if a higher profit is found
               }
           }
-          
+         
           return maxProf;  // Return the maximum profit found
       }
   };
