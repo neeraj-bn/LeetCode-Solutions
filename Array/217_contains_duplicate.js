@@ -38,6 +38,9 @@ var containsDuplicate = function (nums) {
 };
 
 /*
+Map → stores key–value pairs
+Set → stores only unique values
+
 Time Complexity:
 - O(n), where n is the length of the array.
 - Each lookup and insert operation in a Set is O(1) on average.
