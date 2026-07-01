@@ -267,3 +267,4 @@ console.log("Sum (1, 2):", getSum(1, 2)); // 3
 console.log("Sum (2, 3):", getSum(2, 3)); // 5
 console.log("Sum (-2, 3):", getSum(-2, 3)); // 1
 console.log("Sum (-5, -7):", getSum(-5, -7)); // -12
+``;
